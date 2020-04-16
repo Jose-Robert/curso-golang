@@ -19,6 +19,14 @@
       "mode": "debug",
       "cwd": "${workspaceFolder}/fundamentos/zeros",
       "program": "${workspaceFolder}/fundamentos/zeros/zeros.go"
+    },
+    {
+      "name": "Launch conversoes.go",
+      "type": "go",
+      "request": "launch",
+      "mode": "debug",
+      "cwd": "${workspaceFolder}/fundamentos/conversoes",
+      "program": "${workspaceFolder}/fundamentos/conversoes/conversoes.go"
     }
   ]
 }
